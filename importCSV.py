@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import scoped_session, sessionmaker
 import os
 import csv
-engine=create_engine("postgresql://postgres:abhyuday@localhost/lec3")
+engine=create_engine("")## DATABASE URI
 db =scoped_session(sessionmaker(bind=engine))
 
 def main():
