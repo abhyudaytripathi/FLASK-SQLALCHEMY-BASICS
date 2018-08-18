@@ -1,2 +1,2 @@
 # FLASK-SQLALCHEMY-BASICS
-CS50 SQLALCHEMY Basics Project
+CS50 SQLALCHEMY Basics Airlines Project
